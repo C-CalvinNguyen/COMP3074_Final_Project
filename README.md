@@ -21,7 +21,7 @@ calls the API from openweathermap.org, and displays the forecast for the next 7 
 ----------------------------------------
 
 ![App Example Image 1](imgs/example1.jpg)
-![App Example Image 2](imgs/example2.jpg)
+![App Example Image 2](imgs/example2.JPG)
 
 -----------------------------------------
 
